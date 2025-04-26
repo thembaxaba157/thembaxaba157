@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Helloooooooo there, I’m Themba Xaba
 
-<!--
-**thembaxaba157/thembaxaba157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *“Crafting clean code & cool experiences.”*
 
-Here are some ideas to get you started:
+🚀 Software Engineer | 🛠 Builder of things that run on logic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *WELCOME TO MY BEAUTIFUL MESSY WORLD*
+
+---
+
+## 🧭 My Dev Journey
+Started with curiosity, stayed for the **problems**, **patterns**, and **possibilities**.  
+Currently building real-world stuff that solves real-world problems — one commit at a time.
+
+---
+
+## 🔨 Current Tech Stack(Subject to have more additions😜) I Use & Love
+
+**Languages:**  
+`Java` • `JavaScript` • `SQL` • `JSON` + `Python`
+
+**Frameworks & Tools:**  
+`Spring Boot` • `React` • `Vite` • `TailwindCSS` • `JUnit` • `WebSockets`
+
+**DevOps & DB:**  
+`Docker` • `MySQL` • `GitHub Actions`
+
+---
+
+## 🌱 Learning & Growing
+- Data Structures & Algorithms 💡  
+- Clean Architecture & Testing 🧪  
+- Scalable Systems & Microservices 🌐
+- Distributed Systems
+- Building REST API's
+
+---
+
+## 📊 GitHub Stats
+
+![Themba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThembaXaba&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Reach Out
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/themba-xaba-3740a9261/)
+- 📧 [Email](thembaxaba157@gmail.com)
+- [Website(https://thembaxaba.netlify.app/)]
+- 🧪 Always open to feedback, collaboration, or geeky dev chats!
+- OR MAYBE WE CAN TALK ABOUT WRESTLING, FOOTBALL, NBA AND VIDEO GAMES
+---
+
+> *"Stay curious. Keep building."*
