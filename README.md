@@ -40,7 +40,7 @@ Currently building real-world stuff that solves real-world problems — one comm
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/themba-xaba-3740a9261/)
 - 📧 [Email](thembaxaba157@gmail.com)
-- [Website(https://thembaxaba.netlify.app/)]
+- [Website](https://thembaxaba.netlify.app/)
 - 🧪 Always open to feedback, collaboration, or geeky dev chats!
 - OR MAYBE WE CAN TALK ABOUT WRESTLING, FOOTBALL, NBA AND VIDEO GAMES
 ---
