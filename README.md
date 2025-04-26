@@ -4,7 +4,7 @@
 
 🚀 Software Engineer | 🛠 Builder of things that run on logic
 
-> *WELCOME TO MY BEAUTIFUL MESSY WORLD*
+## WELCOME TO MY BEAUTIFUL MESSY WORLD*
 
 ---
 
