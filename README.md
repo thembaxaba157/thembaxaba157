@@ -36,12 +36,6 @@ Currently building real-world stuff that solves real-world problems — one comm
 
 ---
 
-## 📊 GitHub Stats
-
-![Themba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThembaXaba&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Reach Out
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/themba-xaba-3740a9261/)
