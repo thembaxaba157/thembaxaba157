@@ -5,8 +5,7 @@
 🚀 Software Engineer | 🛠 Builder of things that run on logic
 
 ## 🌍 WELCOME TO MY BEAUTIFUL MESSY WORLD*
-
----
+Currently working on my [online multiplayer Rock, paper, scissors game](https://github.com/thembaxaba157/Backend-GameZxne) REST API built with Java+Springboot+Spring security
 
 ## 🧭 My Dev Journey
 Started with curiosity, stayed for the **problems**, **patterns**, and **possibilities**.  
